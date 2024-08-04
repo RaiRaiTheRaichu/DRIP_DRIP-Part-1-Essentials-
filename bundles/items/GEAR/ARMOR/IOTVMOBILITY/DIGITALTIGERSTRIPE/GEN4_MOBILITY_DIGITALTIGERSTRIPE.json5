@@ -1,0 +1,33 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "IOTV Gen4 body armor (High Mobility Kit, USAF Digital Tiger Stripe)",
+	"type": "RETEXTURE",
+    "shortName": "Gen4 HMK",
+    "description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Increased mobility and comfort kit. USAF Digital Tiger Stripe version.",
+
+    "baseItemID": "5b44d0de86f774503d30cba8",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "cubemaps",
+		"shaders",
+		"assets/content/characters/character/vest/materials/item_equipment_armor_iotv_texture.bundle",
+		"assets/commonassets/physics/physicsmaterials.bundle",
+		"items/GEAR/ARMOR/IOTVMOBILITY/DIGITALTIGERSTRIPE/TEXTURE.bundle"
+    ],
+    "childAssorts": {
+        "Front_plate": "656fa8d700d62bcd2e024084",
+        "Back_plate": "656fa8d700d62bcd2e024084",
+		"Soft_armor_front": "6575c342efc786cd9101a5e5",
+        "Soft_armor_back": "6575c34bc6700bd6b40e8a84",
+        "Soft_armor_left": "6575c35bc6700bd6b40e8a88",
+        "soft_armor_right": "6575c366c6700bd6b40e8a8c",
+        "Collar": "6575c373dc9932aed601c5ec",
+        "Groin": "6575c385dc9932aed601c5f0",
+        "Groin_back": "6575c390efc786cd9101a5e9"
+    },
+    "textureGearDependencies": [],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

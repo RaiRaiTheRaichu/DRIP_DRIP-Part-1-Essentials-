@@ -1,0 +1,33 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "6B43 6A Zabralo-Sh body armor (Black)",
+	"type": "RETEXTURE",
+    "shortName": "6B43 6A",
+    "description": "The 6B43 bulletproof vest of the 6A protection class (roughly equivalent to IIIA protection class) is designed for protection from light weapon bullets - including BP and PP - fragments of grenades, mines, and melee weapons, as well as reducing the risk of after-penetration effects during combat situations. Black version.",
+
+    "baseItemID": "545cdb794bdc2d3a198b456a",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "childAssorts": {
+        "Front_plate": "64afc71497cf3a403c01ff38",
+        "Back_plate": "64afc71497cf3a403c01ff38",
+        "Left_side_plate": "64afd81707e2cf40e903a316",
+        "Right_side_plate": "64afd81707e2cf40e903a316",
+		"Soft_armor_front": "6575ce3716c2762fba0057fd",
+        "Soft_armor_back": "6575ce45dc9932aed601c616",
+        "Soft_armor_left": "6575ce5016c2762fba005802",
+        "soft_armor_right": "6575ce5befc786cd9101a671",
+        "Collar": "6575ce6f16c2762fba005806",
+        "Shoulder_l": "6575ce9db15fef3dd4051628",
+        "Shoulder_r": "6575cea8b15fef3dd405162c",
+        "Groin": "6575ce8bdc9932aed601c61e"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

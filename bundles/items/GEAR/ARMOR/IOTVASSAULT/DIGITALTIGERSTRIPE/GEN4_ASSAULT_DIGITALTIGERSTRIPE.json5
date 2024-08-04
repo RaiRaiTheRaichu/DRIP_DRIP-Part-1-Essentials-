@@ -1,0 +1,41 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "IOTV Gen4 body armor (Assault Kit, USAF Digital Tiger Stripe)",
+	"type": "RETEXTURE",
+    "shortName": "Gen4 Assault",
+    "description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Increased ergonomics assault kit. USAF Digital Tiger Stripe version.",
+
+    "baseItemID": "5b44cf1486f77431723e3d05",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "cubemaps",
+		"shaders",
+		"assets/content/characters/character/vest/materials/item_equipment_armor_iotv_texture.bundle",
+		"assets/commonassets/physics/physicsmaterials.bundle",
+		"items/GEAR/ARMOR/IOTVASSAULT/DIGITALTIGERSTRIPE/TEXTURE.bundle"
+    ],
+    "textureGearDependencies": [],
+    "copyAssort": false,
+    "addToBots": true,
+    "weightingMult": 1.0,
+	
+	"loyaltyLevel": 4,
+    "price": {
+        "currency": "RUB",
+        "amount": 368043,
+    },
+    "childAssorts": {
+        "Front_plate": "656fa8d700d62bcd2e024084",
+        "Back_plate": "656fa8d700d62bcd2e024084",
+        "Left_side_plate": "6557458f83942d705f0c4962",
+        "Right_side_plate": "6557458f83942d705f0c4962",
+        "Soft_armor_front": "6575c3b3dc9932aed601c5f4",
+        "Soft_armor_back": "6575c3beefc786cd9101a5ed",
+        "Soft_armor_left": "6575c3cdc6700bd6b40e8a90",
+        "soft_armor_right": "6575c3dfdc9932aed601c5f8",
+        "Collar": "6575c3ec52b7f8c76a05ee39",
+        "Shoulder_l": "6575c3fd52b7f8c76a05ee3d",
+        "Shoulder_r": "6575c40c52b7f8c76a05ee41"
+    }
+}

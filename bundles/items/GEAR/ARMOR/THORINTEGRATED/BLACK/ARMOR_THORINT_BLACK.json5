@@ -1,0 +1,33 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "NFM THOR Integrated Carrier body armor (Black)",
+	"type": "RETEXTURE",
+    "shortName": "THOR IC",
+    "description": "The THOR full protection assault body armor equipped with soft and hard armor elements to protect against shrapnel and bullets of pistol and rifle calibers. Manufactured by NFM. Black version.",
+
+    "baseItemID": "60a283193cb70855c43a381d",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "childAssorts": {
+        "Front_plate": "656fa61e94b480b8a500c0e8",
+        "Back_plate": "656fa61e94b480b8a500c0e8",
+        "Left_side_plate": "64afdb577bb3bfe8fe03fd1d",
+        "Right_side_plate": "64afdb577bb3bfe8fe03fd1d",
+		"Soft_armor_front": "6575d561b15fef3dd4051670",
+        "Soft_armor_back": "6575d56b16c2762fba005818",
+        "Soft_armor_left": "6575d57a16c2762fba00581c",
+        "soft_armor_right": "6575d589b15fef3dd4051674",
+        "Collar": "6575d598b15fef3dd4051678",
+        "Shoulder_l": "6575d5b316c2762fba005824",
+        "Shoulder_r": "6575d5bd16c2762fba005828",
+        "Groin": "6575d5a616c2762fba005820"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

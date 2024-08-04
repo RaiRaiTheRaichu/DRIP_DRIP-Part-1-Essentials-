@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Hexatac HPC Plate Carrier (Czech Vz.95)",
+	"type": "RETEXTURE",
+    "shortName": "HPC",
+    "description": "A plate carrier by Hexatac. A minimalistic version designed to be used with chest rigs. Czech Vz.95 version.",
+
+    "baseItemID": "63737f448b28897f2802b874",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

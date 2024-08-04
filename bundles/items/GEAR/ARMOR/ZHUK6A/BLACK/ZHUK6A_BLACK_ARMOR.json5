@@ -1,0 +1,24 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "BNTI Zhuk-6a body armor (Black)",
+	"type": "RETEXTURE",
+    "shortName": "Zhuk-6a",
+    "description": "A class 6 (Russian GOST) protection armored vest designed for assault units. Based on the Gzhel armor, serving as its lightweight copy. Black version.",
+
+    "baseItemID": "5c0e625a86f7742d77340f62",
+    "traderId": "georgia",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": false,
+    "addToBots": true,
+    "weightingMult": 1.0,
+
+    "loyaltyLevel": 3,
+    "price": {
+        "currency": "USD",
+        "amount": 2450,
+    },
+}
