@@ -1,0 +1,25 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Peltor ComTac 4 Hybrid headset (Black)",
+	"type": "RETEXTURE",
+    "shortName": "ComTac 4",
+    "description": "The ComTac IV Hybrid Communication Headset is designed to help reduce exposure to hazardous levels of noise, improve situational awareness and at the same time enable two-way radio communication in noisy environments. The headset's electronics are contained completely inside the headset housing, eliminating the need for a large, heavy external radio control box. The headband mechanically stabilizes the headset to help relieve issues of earplugs dislodging from cable snags and body movement. Designed for comfortable use with a ballistic helmet. Black version.",
+
+    "baseItemID": "628e4e576d783146b124c64d",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": false,
+    "addToBots": true,
+    "weightingMult": 1.0,
+
+    "loyaltyLevel": 3,
+    "price": {
+        "currency": "USD",
+        "amount": 845,
+    },
+}

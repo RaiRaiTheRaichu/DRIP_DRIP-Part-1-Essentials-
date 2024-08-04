@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Tac-Kek Heavy Trooper mask for Ops-Core-type helmets (Black)",
+	"type": "RETEXTURE",
+    "shortName": "TK Heavy Trooper",
+    "description": "The Tac-Kek Heavy Trooper mask is an additional ballistic module for Ops-Core-type helmets, based on the famous movie universe. This is the way. Black version.",
+
+    "baseItemID": "5ea058e01dbce517f324b3e2",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

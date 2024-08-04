@@ -1,0 +1,25 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "EMERCOM cap (EMERCOM VSR)",
+	"type": "RETEXTURE",
+    "shortName": "EMERCOM",
+    "description": "A cap of Emergency Committee (EMERCOM of Russian Federation), usually worn by patrol units, in a rare EMERCOM VSR camo.",
+
+    "baseItemID": "5aa2b89be5b5b0001569311f",
+    "traderId": "moron",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": false,
+    "addToBots": true,
+    "weightingMult": 1.0,
+
+    "loyaltyLevel": 1,
+    "price": {
+        "currency": "USD",
+        "amount": 75,
+    },
+}

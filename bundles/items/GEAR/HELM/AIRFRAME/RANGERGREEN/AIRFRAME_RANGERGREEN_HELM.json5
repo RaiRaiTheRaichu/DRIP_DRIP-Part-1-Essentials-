@@ -1,0 +1,25 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Crye Precision AirFrame helmet (Ranger Green)",
+	"type": "RETEXTURE",
+    "shortName": "AirFrame",
+    "description": "The AirFrame ballistic helmet sets the standards in protection, comfort, and modularity. The unique overlapping shell design of the AirFrame creates an integrated vent that provides passive cooling and can reduce the damaging effects of explosive blast waves. Highly modular. Manufactured by Crye Precision. Ranger Green version.",
+
+    "baseItemID": "5c17a7ed2e2216152142459c",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+		"shaders",
+		"cubemaps",
+		"items/GEAR/HELM/AIRFRAME/RANGERGREEN/TEXTURE.bundle"
+    ],
+    "textureGearDependencies": [],
+    "childAssorts": {
+		"Helmet_top": "657f9897f4c82973640b235e",
+        "Helmet_back": "657f98fbada5fadd1f07a585"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}
