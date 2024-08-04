@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Mystery Ranch Blackjack 50 backpack (Black)",
+	"type": "RETEXTURE",
+    "shortName": "Blackjack 50",
+    "description": "A backpack made for long and successful raids, manufactured by Mystery Ranch. Black version.",
+
+    "baseItemID": "5c0e774286f77468413cc5b2",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

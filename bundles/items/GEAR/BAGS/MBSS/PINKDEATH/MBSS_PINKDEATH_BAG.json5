@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Flyye MEMEBSS Backpack P2W Premium Edition",
+	"type": "RETEXTURE",
+    "shortName": "MEMEBSS",
+    "description": "An extra durable backpack made from 1000D Cordura with a separate pocket for a water bladder and a MOLLE attachment system on the sides. Special worth to buy P2W Premium Edition.",
+
+    "baseItemID": "5b44c6ae86f7742d1627baea",
+    "traderId": "moron",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}
