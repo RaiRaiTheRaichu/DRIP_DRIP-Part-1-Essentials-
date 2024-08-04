@@ -1,0 +1,24 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Fake Mustache (Grey)",
+	"type": "RETEXTURE",
+    "shortName": "Mustache",
+    "description": "Quite a strange item for current events, but, nevertheless, will allow you to get a real tactical look of a 80-90s spec-ops operator. Old Snake style! Grey version.",
+
+    "baseItemID": "5bd073a586f7747e6f135799",
+    "traderId": "moron",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps"
+    ],
+    "copyAssort": false,
+    "addToBots": true,
+    "weightingMult": 1.0,
+
+    "loyaltyLevel": 1,
+    "price": {
+        "currency": "USD",
+        "amount": 100,
+    },
+}

@@ -1,0 +1,25 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Welding mask \"Pissbaby\"",
+	"type": "RETEXTURE",
+    "shortName": "Pissbaby",
+    "description": "An armored steel welding mask, seems somebody pulled a prank on their buddy.",
+
+    "baseItemID": "60a7ad3a0c5cb24b0134664a",
+    "traderId": "moron",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": false,
+    "addToBots": true,
+    "weightingMult": 1.0,
+	
+	"loyaltyLevel": 3,
+    "price": {
+        "currency": "RUB",
+        "amount": 69420,
+    },
+}

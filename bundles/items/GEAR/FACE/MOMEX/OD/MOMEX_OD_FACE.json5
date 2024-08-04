@@ -1,0 +1,25 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Momex balaclava (Olive Drab)",
+	"type": "RETEXTURE",
+    "shortName": "Momex",
+    "description": "A tactical balaclava with a single hole for eyes. Olive Drab version.",
+
+    "baseItemID": "5b432f3d5acfc4704b4a1dfb",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": false,
+    "addToBots": true,
+    "weightingMult": 1.0,
+
+    "loyaltyLevel": 1,
+    "price": {
+        "currency": "EUR",
+        "amount": 150,
+    },
+}
