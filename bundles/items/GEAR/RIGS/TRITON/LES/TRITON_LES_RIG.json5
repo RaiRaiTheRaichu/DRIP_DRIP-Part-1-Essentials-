@@ -1,0 +1,19 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "Dynaforce Triton M43-A chest harness (Russian Les)",
+	"type": "RETEXTURE",
+    "shortName": "Triton",
+    "description": "The Triton M43-A assault chest rig is designed to store and carry ammunition and equipment for use in moderate and hot climates. Manufactured by Dynaforce. Russian Les version.",
+
+    "baseItemID": "5ca20abf86f77418567a43f2",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}

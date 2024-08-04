@@ -1,0 +1,33 @@
+{
+    // This will get injected into all of the locales as the item name.
+    "name": "CQC Osprey MK4A plate carrier (Protection, Black)",
+	"type": "RETEXTURE",
+    "shortName": "Osprey MK4A (P)",
+    "description": "The Osprey plate carrier is actively used by the British army and specialists. The Protection preset is provided with heavy armor plates and the optimal number of pouches for ammunition, grenades and special equipment. Black version.",
+
+    "baseItemID": "60a3c68c37ea821725773ef5",
+    "traderId": "georgia",
+    "bundlePath": "GEAR.bundle",
+    "gearDependencies": [
+        "assets/content/characters/character/tacticalvest/cr_commando_mesh",
+		"shaders",
+		"cubemaps",
+		"assets/commonassets/physics/physicsmaterials.bundle"
+    ],
+    "childAssorts": {
+        "Front_plate": "656fa53d94b480b8a500c0e4",
+        "Back_plate": "656fa53d94b480b8a500c0e4",
+        "Left_side_plate": "6557458f83942d705f0c4962",
+        "Right_side_plate": "6557458f83942d705f0c4962",
+		"Soft_armor_front": "65733312ca0ca984940a2d53",
+        "Soft_armor_back": "657333232cc8dfad2c0a3d97",
+        "Soft_armor_left": "657333302cc8dfad2c0a3d9b",
+        "soft_armor_right": "6573333eca0ca984940a2d57",
+        "Collar": "6573334aca0ca984940a2d5b",
+        "Shoulder_l": "65733375b7a8d286530e3dd7",
+        "Shoulder_r": "6573337f2cc8dfad2c0a3da7"
+    },
+    "copyAssort": true,
+    "addToBots": true,
+    "weightingMult": 1.0,
+}
